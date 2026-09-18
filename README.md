@@ -5,15 +5,15 @@
 
 <div align="center">
 
-### Full Stack Developer | Computer Science Engineering Student
+### MERN Stack Developer | Java Developer | DSA Enthusiast
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/ravivarman-s-48445b259/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://ravivarman-portfolio-1.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
@@ -88,27 +88,9 @@
 
 ---
 
-## 🔥 Featured Projects
-
-- 👨‍💼 Employee Management System
-- 🛒 E-Commerce Website
-- ✅ To-Do List Web App
-- 🚕 Taxi Booking System
-- 📚 Library Management System
-
----
-
-## 🏆 Achievements
-
-- 💯 Solved **200+ LeetCode** problems using Java
-- ⚛️ Built multiple responsive React applications
-- 🚀 Developing Full Stack applications using the MERN Stack
-
----
-
 ## 🔥 Quote
 
-> "Code. Learn. Build. Repeat."
+> **"Code. Learn. Build. Repeat."**
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
